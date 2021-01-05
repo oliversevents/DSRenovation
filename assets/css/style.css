@@ -4,7 +4,7 @@
 }
 
 .contact-header {
-    background-color: darkslategray;
+    background-color: black;
     margin: 0;
 }
 
@@ -21,7 +21,7 @@ header {
 .contact-links h5 {
     color: white;
 }
-.contact-links i {
+.contact-links a i {
     color: #007cba;
 }
 
