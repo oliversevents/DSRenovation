@@ -6,6 +6,8 @@
 .contact-header {
     background-color: black;
     margin: 0;
+    height: 80px;
+    width: 100%;
 }
 
 /*---------------------HEADING*/
@@ -23,6 +25,8 @@ header {
 }
 .contact-links a i {
     color: #007cba;
+    width: 32px;
+    height: 32px;
 }
 
 .logo {
