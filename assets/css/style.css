@@ -3,9 +3,21 @@
     background-color: black;
 }
 
-/*--------------------HEADING*/
+.contact-header {
+    background-color: darkslategray;
+}
+
+/*---------------------HEADING*/
 header {
     margin: 0;
+}
+
+.contact-links {
+    color: white;
+}
+
+.contact-links a {
+    color: #007cba;
 }
 
 .logo {
