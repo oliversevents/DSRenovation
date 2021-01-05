@@ -5,6 +5,7 @@
 
 .contact-header {
     background-color: darkslategray;
+    margin: 0;
 }
 
 /*---------------------HEADING*/
@@ -13,9 +14,13 @@ header {
 }
 
 .contact-links {
-    color: white;
+    display: inline-block;
+    margin: 0;
 }
 
+.contact-links h5 {
+    color: white;
+}
 .contact-links i {
     color: #007cba;
 }
