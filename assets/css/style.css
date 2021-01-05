@@ -1,0 +1,18 @@
+/*--------------------COLOURS*/
+.header-bar {
+    background-color: black;
+}
+
+/*--------------------HEADING*/
+header {
+    margin: 0;
+}
+
+.logo {
+    background-color: black;
+    background: url("../images/companylogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 360px;
+}
